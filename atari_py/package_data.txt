@@ -331,6 +331,8 @@ ale_interface/src/games/supported/SpaceInvaders.cpp
 ale_interface/src/games/supported/SpaceInvaders.hpp
 ale_interface/src/games/supported/StarGunner.cpp
 ale_interface/src/games/supported/StarGunner.hpp
+ale_interface/src/games/supported/Surround.cpp
+ale_interface/src/games/supported/Surround.hpp
 ale_interface/src/games/supported/Tennis.cpp
 ale_interface/src/games/supported/Tennis.hpp
 ale_interface/src/games/supported/Tetris.cpp
