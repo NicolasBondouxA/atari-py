@@ -77,6 +77,7 @@
 #include "supported/Solaris.hpp"
 #include "supported/SpaceInvaders.hpp"
 #include "supported/StarGunner.hpp"
+#include "supported/Surround.hpp"
 #include "supported/Tennis.hpp"
 #include "supported/Tetris.hpp"
 #include "supported/TimePilot.hpp"
@@ -157,6 +158,7 @@ static const RomSettings *roms[]  = {
     new SolarisSettings(),
     new SpaceInvadersSettings(),
     new StarGunnerSettings(),
+    new SurroundSettings(),
     new TennisSettings(),
     new TetrisSettings(),
     new TimePilotSettings(),
